@@ -1,0 +1,59 @@
+#########################################################
+AGENT: Decision Tree, HEURISTIC: Null
+AVG num guesses: 3.95
+TOTAL num wins: 96/100
+#########################################################
+AGENT: Decision Tree, HEURISTIC: Local Evaluation
+AVG num guesses: 3.85
+TOTAL num wins: 98/100
+#########################################################
+AGENT: Decision Tree, HEURISTIC: Constant Evaluation
+AVG num guesses: 4.04
+TOTAL num wins: 96/100
+#########################################################
+AGENT: MinMax, HEURISTIC: Local Evaluation, DEPTH: 1
+AVG num guesses: 3.9
+TOTAL num wins: 99/100
+#########################################################
+AGENT: MinMax, HEURISTIC: Constant Evaluation, DEPTH: 1
+AVG num guesses: 3.91
+TOTAL num wins: 100/100
+#########################################################
+AGENT: MinMax, HEURISTIC: Constant Evaluation, DEPTH: 2
+AVG num guesses: 4.23
+TOTAL num wins: 96/100
+#########################################################
+AGENT: AlphaBeta, HEURISTIC: Local Evaluation, DEPTH: 1
+AVG num guesses: 3.98
+TOTAL num wins: 98/100
+#########################################################
+AGENT: AlphaBeta, HEURISTIC: Constant Evaluation, DEPTH: 1
+AVG num guesses: 3.92
+TOTAL num wins: 96/100
+#########################################################
+AGENT: AlphaBeta, HEURISTIC: Constant Evaluation, DEPTH: 2
+AVG num guesses: 4.06
+TOTAL num wins: 96/100
+#########################################################
+AGENT: ExpectiMax, HEURISTIC: Local Evaluation, DEPTH: 1
+AVG num guesses: 3.66
+TOTAL num wins: 98/100
+#########################################################
+AGENT: ExpectiMax, HEURISTIC: Local Evaluation, DEPTH: 2
+AVG num guesses: 3.71
+TOTAL num wins: 99/100
+#########################################################
+AGENT: ExpectiMax, HEURISTIC: Constant Evaluation, DEPTH: 1
+AVG num guesses: 3.77
+TOTAL num wins: 100/100
+#########################################################
+AGENT: ExpectiMax, HEURISTIC: Constant Evaluation, DEPTH: 2
+AVG num guesses: 3.93
+TOTAL num wins: 97/100
+
+
+
+#########################################################
+AGENT: Decision Tree, HEURISTIC: Constant Evaluation
+AVG num guesses: 3.75
+TOTAL num wins: 98/100
